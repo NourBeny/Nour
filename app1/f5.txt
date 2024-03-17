@@ -1,2 +1,2 @@
 f1.txt	f2.txt	f3.txt	f4.txt	f5.txt	fichier1.txt
-fichier modifié en ligne
+fichier modifié enligne
